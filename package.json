@@ -1,0 +1,22 @@
+{
+  "name": "js-learning.my",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lok105/js_learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lok105/js_learning/issues"
+  },
+  "homepage": "https://github.com/Lok105/js_learning#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
