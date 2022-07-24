@@ -422,6 +422,7 @@ window.addEventListener('DOMContentLoaded', () => {
     function moveSlide(){
         slidesField.style.transform = `translateX(-${offset}px)`;
     }
-
+    
+    console.log(slideIndex);
 
 });
