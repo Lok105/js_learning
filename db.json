@@ -27,6 +27,21 @@
       "name": "Варя",
       "phone": "222222",
       "id": 1
+    },
+    {
+      "name": "asdasd",
+      "phone": "asdasdasd",
+      "id": 2
+    },
+    {
+      "name": "ООО \"Черемушки\"",
+      "phone": "222222",
+      "id": 3
+    },
+    {
+      "name": "Варя",
+      "phone": "asdasdasdasd",
+      "id": 4
     }
   ]
 }
